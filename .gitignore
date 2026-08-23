@@ -1,0 +1,15 @@
+# Build output
+[Bb]in/
+[Oo]bj/
+
+# Visual Studio user files
+.vs/
+*.user
+*.suo
+
+# Local configuration and logs
+appsettings.json
+appsettings.Local.json
+appsettings.*.local.json
+*.log
+
